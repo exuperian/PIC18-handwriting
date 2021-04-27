@@ -2,6 +2,9 @@
     #include "character_lib.s"    
     #include "recognition.s"
     #include "touchscreen.s"
+    
+    ; WRITTEN BY ALEX HODGES AND BRODIE ALLAN
+    ; MARCH 2021
 
     psect code, abs
 	org 0x0
